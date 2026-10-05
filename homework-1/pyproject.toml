@@ -1,0 +1,12 @@
+[project]
+name = "homework-1"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "gitsource==0.0.5",
+    "markitdown[pdf]==0.1.7",
+    "minsearch==0.2.0",
+    "openai>=3.24.0",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+]
