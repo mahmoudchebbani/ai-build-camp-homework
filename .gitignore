@@ -7,3 +7,6 @@ __pycache__/
 # generated data, recreate with the scripts
 books/
 books_text/
+*.parquet
+*.db
+*.db.wal

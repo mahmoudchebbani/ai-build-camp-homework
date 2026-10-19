@@ -1,0 +1,20 @@
+[project]
+name = "homework-3"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.5.6",
+    "pydantic-ai-slim[openai]>=2.57.0",
+    "python-dotenv>=1.2.4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.0",
+]
+
+[tool.pytest.ini_options]
+# the agent is created once at import, so all tests share one event loop
+asyncio_default_test_loop_scope = "session"
+asyncio_default_fixture_loop_scope = "session"
