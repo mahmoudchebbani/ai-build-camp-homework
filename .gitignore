@@ -10,3 +10,4 @@ books_text/
 *.parquet
 *.db
 *.db.wal
+.logfire/

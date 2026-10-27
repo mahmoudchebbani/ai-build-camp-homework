@@ -1,0 +1,11 @@
+[project]
+name = "homework-4"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "logfire>=5.3.0",
+    "pydantic-ai>=2.61.0",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+]
