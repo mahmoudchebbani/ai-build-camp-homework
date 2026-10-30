@@ -1,0 +1,25 @@
+question,category,type
+How do I make spaghetti carbonara?,specific-recipe,direct
+What can I cook with chicken and coconut milk?,ingredient-search,ingredient-based
+I want something easy and healthy for dinner,preference,vague
+How do I make sushi?,missing-recipe,not-in-collection
+What temperature should I set my oven to for the lava cake?,recipe-detail,specific
+I want pasta,phrasing,vague
+What Italian dishes do you have?,phrasing,cuisine-based
+Give me the recipe for fish and chips,specific-recipe,direct
+How long does the mushroom risotto take to cook?,recipe-detail,specific
+How many people does the Thai green curry serve?,recipe-detail,specific
+Can I use bacon instead of guanciale in carbonara?,substitution,not-in-data
+Can I substitute almond milk in the pancakes?,substitution,not-in-data
+Is the Caesar salad vegetarian?,dietary,trap
+Which recipes are vegan?,dietary,filter
+Do you have any gluten-free recipes?,dietary,not-in-data
+What's the calorie count of the Greek salad?,unanswerable,not-in-data
+How do I make ramen?,missing-recipe,not-in-collection
+Do you have a recipe for beef bourguignon?,missing-recipe,not-in-collection
+What's the best restaurant in town?,out-of-scope,decline
+How do I fix my dishwasher?,out-of-scope,decline
+Can I make the falafel with canned chickpeas?,edge-case,contradicts-recipe
+Can I let the miso soup boil after adding the miso?,edge-case,contradicts-recipe
+How long can I keep leftover tikka masala in the fridge?,unanswerable,storage
+What wine goes well with the mushroom risotto?,unanswerable,pairing

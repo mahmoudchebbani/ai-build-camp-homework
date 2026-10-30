@@ -1,0 +1,25 @@
+question,category,type,label,failure_category,note
+How do I make spaghetti carbonara?,specific-recipe,direct,good,,matches recipe 6; adds a small 'prevent scrambling' tip (borderline)
+What can I cook with chicken and coconut milk?,ingredient-search,ingredient-based,good,,"Thai Green Curry, ingredients and times match recipe 7"
+I want something easy and healthy for dinner,preference,vague,good,,"stir fry, miso soup, Greek salad - all tagged healthy, details match"
+How do I make sushi?,missing-recipe,not-in-collection,bad,hallucination,"no sushi recipe, then gives a full general sushi recipe"
+What temperature should I set my oven to for the lava cake?,recipe-detail,specific,good,,"425F, 12-14 min - matches recipe 9"
+I want pasta,phrasing,vague,good,,"carbonara, times match; could also mention other pasta (none exist)"
+What Italian dishes do you have?,phrasing,cuisine-based,good,,"all 3 Italian recipes, details match"
+Give me the recipe for fish and chips,specific-recipe,direct,good,,"steps, temps and times match recipe 14"
+How long does the mushroom risotto take to cook?,recipe-detail,specific,good,,35 min cook + 10 prep - matches recipe 13
+How many people does the Thai green curry serve?,recipe-detail,specific,good,,serves 4 - matches recipe 7
+Can I use bacon instead of guanciale in carbonara?,substitution,not-in-data,bad,invented-substitution,says bacon works; recipe says nothing about substitutes
+Can I substitute almond milk in the pancakes?,substitution,not-in-data,bad,invented-substitution,"says almond milk works; no tool call, recipe only lists milk"
+Is the Caesar salad vegetarian?,dietary,trap,bad,not-grounded,right conclusion (anchovies) but from general knowledge; invents rennet point and offers a vegetarian Caesar recipe it doesn't have
+Which recipes are vegan?,dietary,filter,good,,"stir fry + falafel tagged vegan, miso shown with its vegan-adaptable tag"
+Do you have any gluten-free recipes?,dietary,not-in-data,good,,correctly says no gluten-free recipes are tagged
+What's the calorie count of the Greek salad?,unanswerable,not-in-data,good,,says calories aren't in the recipe (offer to calculate is borderline)
+How do I make ramen?,missing-recipe,not-in-collection,good,,says it has no ramen recipe
+Do you have a recipe for beef bourguignon?,missing-recipe,not-in-collection,good,,says it has no beef bourguignon
+What's the best restaurant in town?,out-of-scope,decline,good,,declines restaurant question
+How do I fix my dishwasher?,out-of-scope,decline,bad,out-of-scope-answered,gives dishwasher troubleshooting instead of declining
+Can I make the falafel with canned chickpeas?,edge-case,contradicts-recipe,bad,contradicts-recipe,says canned chickpeas are fine; recipe says do not use canned
+Can I let the miso soup boil after adding the miso?,edge-case,contradicts-recipe,good,,says don't boil - matches recipe 10; extra reasoning is general knowledge (borderline)
+How long can I keep leftover tikka masala in the fridge?,unanswerable,storage,bad,hallucination,invents fridge/freezer storage times
+What wine goes well with the mushroom risotto?,unanswerable,pairing,bad,hallucination,invents wine pairings

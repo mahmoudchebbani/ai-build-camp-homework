@@ -1,0 +1,977 @@
+[
+  {
+    "question": "What are the main ingredients used in a classic Margherita pizza?",
+    "category": "factual",
+    "type": "Classic Margherita Pizza",
+    "output": "A classic Margherita pizza typically includes the following main ingredients:\n\n1. **Pizza Dough** - made from flour, water, yeast, and salt.\n2. **Tomato Sauce** - usually made from crushed tomatoes, olive oil, and seasonings.\n3. **Fresh Mozzarella Cheese** - preferably buffalo mozzarella for authenticity.\n4. **Fresh Basil Leaves** - for garnish and flavor.\n5. **Olive Oil** - often drizzled on top before or after baking.\n\nThese ingredients combine to create a simple yet delicious pizza that showcases the flavors of each component.",
+    "execution_time": 4.15,
+    "tokens": {
+      "input_tokens": 235,
+      "output_tokens": 120,
+      "total_tokens": 355
+    },
+    "cost": 0.000107
+  },
+  {
+    "question": "How do you properly roll out pizza dough?",
+    "category": "how-to",
+    "type": "Classic Margherita Pizza",
+    "output": "To properly roll out pizza dough, follow these steps:\n\n1. **Prepare the Dough**: Ensure your pizza dough has been properly risen. If it's been refrigerated, let it come to room temperature for about 30 minutes.\n\n2. **Flour the Surface**: Lightly flour your work surface and the rolling pin to prevent sticking.\n\n3. **Divide the Dough**: If you have a large batch, divide the dough into portions for individual pizzas.\n\n4. **Flatten the Dough**: Start by pressing down on the dough ball with your hands to flatten it slightly.\n\n5. **Roll the Dough**: Begin rolling from the center outward, using even pressure. Rotate the dough a quarter turn after every few rolls to maintain a circular shape and prevent sticking.\n\n6. **Adjust Thickness**: Roll the dough to your desired thickness, typically between \u00bc inch and \u00bd inch, depending on whether you prefer a thin or thick crust.\n\n7. **Finish the Edges**: Use your fingers to gently shape the edges if needed.\n\n8. **Transfer to a Pizza Peel or Baking Sheet**: If you're using a pizza stone, transfer the rolled-out dough onto a pizza peel floured with cornmeal for easy transfer. If using a baking sheet, you can directly place the dough onto the sheet.\n\n9. **Add Toppings**: Once rolled out and placed, add your desired sauce, cheese, and toppings.\n\nFollowing these steps will help you achieve a perfectly rolled-out pizza dough ready for baking!",
+    "execution_time": 4.48,
+    "tokens": {
+      "input_tokens": 230,
+      "output_tokens": 307,
+      "total_tokens": 537
+    },
+    "cost": 0.000219
+  },
+  {
+    "question": "Why are San Marzano tomatoes preferred for this recipe?",
+    "category": "detail",
+    "type": "Classic Margherita Pizza",
+    "output": "San Marzano tomatoes are often preferred in recipes for several reasons:\n\n1. **Flavor**: They have a sweet flavor with low acidity, which can enhance the overall taste of sauces and dishes.\n\n2. **Texture**: San Marzano tomatoes are known for their firm flesh and fewer seeds, making them ideal for sauces as they create a rich, smooth consistency.\n\n3. **Authenticity**: These tomatoes are often associated with traditional Italian cooking, particularly in Southern Italy, adding an authentic touch to recipes.\n\n4. **Culinary History**: They have a long history of cultivation and are protected by designation in Italy, ensuring quality and a distinctive taste.\n\nUsing San Marzano tomatoes can elevate the quality of dishes like pasta sauces, pizza, and stews, making them a preferred choice among chefs and home cooks alike. If you need a recipe using San Marzano tomatoes, let me know!",
+    "execution_time": 3.25,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 183,
+      "total_tokens": 415
+    },
+    "cost": 0.000145
+  },
+  {
+    "question": "What can I use as a substitute for fresh mozzarella in Margherita pizza?",
+    "category": "substitution",
+    "type": "Classic Margherita Pizza",
+    "output": "If you don't have fresh mozzarella for Margherita pizza, you can consider the following substitutes:\n\n1. **Low-moisture Mozzarella**: This is a common alternative and has a similar flavor and texture, though it may not be as creamy.\n2. **Burrata**: This cheese has a creamy interior and can add a richer texture.\n3. **Ricotta**: While it has a different texture, it can provide a creamy component.\n4. **Goat Cheese**: It offers a tangy flavor profile that can work well in place of mozzarella.\n5. **Provolone**: Another option with a slightly sharper flavor.\n\nThese should work well, keeping in mind that the taste and texture may vary slightly from traditional Margherita pizza.",
+    "execution_time": 3.07,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 159,
+      "total_tokens": 396
+    },
+    "cost": 0.000131
+  },
+  {
+    "question": "How does a Margherita pizza compare to a pepperoni pizza in terms of flavor?",
+    "category": "comparison",
+    "type": "Classic Margherita Pizza",
+    "output": "A Margherita pizza is known for its simple and fresh flavors, primarily featuring classic ingredients like fresh mozzarella, tomatoes, and basil. It has a light, slightly sweet, and herbaceous taste due to the fresh tomatoes and basil, making it feel very fresh and vibrant.\n\nOn the other hand, a pepperoni pizza has a richer and spicier flavor profile. The pepperoni adds a savory, smoky, and slightly spicy taste, which contrasts with the milder flavors of the cheese and tomato sauce. \n\nIn summary, a Margherita pizza is light and fresh, while a pepperoni pizza is more robust and savory, making both enjoyable but appealing to different flavor preferences.",
+    "execution_time": 2.62,
+    "tokens": {
+      "input_tokens": 239,
+      "output_tokens": 139,
+      "total_tokens": 378
+    },
+    "cost": 0.000119
+  },
+  {
+    "question": "What is the origin of Chicken Tikka Masala?",
+    "category": "factual",
+    "type": "Chicken Tikka Masala",
+    "output": "Chicken Tikka Masala is widely believed to have originated in the Indian subcontinent, though it has become particularly popular in the UK. The dish typically features marinated chicken pieces that are grilled or roasted and then simmered in a creamy tomato-based sauce. \n\nWhile it has strong ties to Indian cuisine, there is a debate about its true origins, with some claiming it was created by South Asian cooks in Britain, particularly in response to British tastes. This has led to it being considered a \"British Indian\" dish. The combination of flavors and cooking techniques reflects both traditional Indian cooking and Western influences.",
+    "execution_time": 3.33,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 122,
+      "total_tokens": 354
+    },
+    "cost": 0.000108
+  },
+  {
+    "question": "How do I properly marinate the chicken for Chicken Tikka Masala?",
+    "category": "how-to",
+    "type": "Chicken Tikka Masala",
+    "output": "To properly marinate chicken for Chicken Tikka Masala, follow these steps:\n\n### Ingredients for Marinade\n- **Chicken:** Boneless chicken thighs or breasts, cut into bite-sized pieces\n- **Yogurt:** Plain yogurt (acts as a tenderizer)\n- **Spices:** Common spices include garam masala, cumin, coriander, turmeric, and chili powder\n- **Ginger-Garlic Paste:** Fresh ginger and garlic blended together\n- **Lemon Juice:** Adds acidity\n- **Salt:** To taste\n- **Oil:** Optional, can help with moisture\n\n### Steps\n1. **Prepare the Marinade:**\n   - In a bowl, combine plain yogurt, ginger-garlic paste, lemon juice, and spices (garam masala, cumin, coriander, turmeric, chili powder, and salt).\n   - Mix well to create a smooth paste.\n\n2. **Marinate the Chicken:**\n   - Add the chopped chicken to the marinade. Make sure all pieces are well coated.\n   - Cover the bowl with plastic wrap or transfer to a zip-top bag, sealing it tightly.\n\n3. **Refrigerate:**\n   - Marinate in the refrigerator for at least 1 hour. For the best flavor, marinate overnight.\n\n4. **Prepare for Cooking:**\n   - Once marinated, let the chicken come to room temperature before cooking. \n\n5. **Cook:**\n   - Grill or bake the marinated chicken until cooked through and slightly charred.\n\nThis marination technique will enhance the flavors and tenderness of the chicken, making it ideal for Chicken Tikka Masala. Let me know if you need a specific recipe for Chicken Tikka Masala!",
+    "execution_time": 5.01,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 349,
+      "total_tokens": 585
+    },
+    "cost": 0.000245
+  },
+  {
+    "question": "What are the spices used in Chicken Tikka Masala?",
+    "category": "detail",
+    "type": "Chicken Tikka Masala",
+    "output": "I don't have the specific recipe for Chicken Tikka Masala at the moment, but common spices used in this dish typically include:\n\n- Garam masala\n- Cumin\n- Coriander\n- Turmeric\n- Paprika\n- Kasuri methi (dried fenugreek leaves)\n- Chili powder\n- Ginger powder\n\nIf you're looking for a specific recipe or variations, I can help with that!",
+    "execution_time": 2.32,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 88,
+      "total_tokens": 321
+    },
+    "cost": 8.8e-05
+  },
+  {
+    "question": "Can I use tofu instead of chicken in this recipe?",
+    "category": "substitution",
+    "type": "Chicken Tikka Masala",
+    "output": "I can help you determine if tofu can work as a substitute for chicken in a specific recipe. Please provide the name or details of the recipe you're referring to.",
+    "execution_time": 1.69,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 34,
+      "total_tokens": 266
+    },
+    "cost": 5.5e-05
+  },
+  {
+    "question": "How does Chicken Tikka Masala compare with Butter Chicken?",
+    "category": "comparison",
+    "type": "Chicken Tikka Masala",
+    "output": "Chicken Tikka Masala and Butter Chicken are both popular Indian dishes that feature chicken and creamy sauces, but they differ in several key aspects:\n\n1. **Preparation**:\n   - **Chicken Tikka Masala**: The chicken is typically marinated in yogurt and spices, then grilled or roasted before being added to the sauce. The sauce is made with tomatoes, cream, and spices, giving it a rich flavor.\n   - **Butter Chicken**: This dish starts with chicken that is usually cooked in a tandoor (clay oven) and then simmered in a sauce made with butter, cream, and a variety of spices, primarily using a sweeter tomato base.\n\n2. **Flavor Profile**:\n   - **Chicken Tikka Masala**: It has a more complex and spiced flavor profile due to the marination and a blend of spices in the sauce. It's often a bit smokier thanks to the grilling.\n   - **Butter Chicken**: Generally milder and creamier, with a sweeter taste from the butter and tomatoes. It tends to be more comforting and rich.\n\n3. **Serving**:\n   - Both dishes are usually served with rice or naan, but Butter Chicken is often preferred for its smooth, indulgent sauce.\n\n4. **Origin**:\n   - **Chicken Tikka Masala**: Believed to have originated in the UK by Indian cooks, it reflects a fusion of Indian and British culinary traditions.\n   - **Butter Chicken**: Originated in Delhi, India, and is a traditional dish that embodies North Indian cuisine.\n\nIn summary, while both are delightful dishes featuring chicken in creamy sauces, Chicken Tikka Masala has a spicier, more complex flavor, while Butter Chicken is milder and richer.",
+    "execution_time": 6.72,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 357,
+      "total_tokens": 590
+    },
+    "cost": 0.000249
+  },
+  {
+    "question": "What are the main ingredients in a Caesar salad?",
+    "category": "factual",
+    "type": "Caesar Salad",
+    "output": "The main ingredients in a Caesar salad typically include:\n\n1. Romaine lettuce\n2. Caesar dressing (which usually contains ingredients like anchovies, garlic, lemon juice, egg yolks, Dijon mustard, Worcestershire sauce, olive oil, and Parmesan cheese)\n3. Croutons\n4. Parmesan cheese (for topping)\n\nSome variations may also include grilled chicken or bacon.",
+    "execution_time": 5.74,
+    "tokens": {
+      "input_tokens": 231,
+      "output_tokens": 78,
+      "total_tokens": 309
+    },
+    "cost": 8.1e-05
+  },
+  {
+    "question": "How do I make the Caesar dressing?",
+    "category": "how-to",
+    "type": "Caesar Salad",
+    "output": "The recipe for Caesar dressing isn't explicitly listed, but you can use these steps to make it as part of a Caesar salad:\n\n### Ingredients for Caesar Dressing:\n- 1 egg yolk\n- 1 teaspoon anchovy paste\n- 1 clove garlic, minced\n- 2 tablespoons lemon juice\n- 1/4 cup olive oil\n\n### Instructions:\n1. In a bowl, whisk together the egg yolk, anchovy paste, minced garlic, and lemon juice.\n2. Slowly drizzle in the olive oil while whisking until the dressing is emulsified and creamy.\n\n### Assembling the Caesar Salad:\n1. Wash and chop romaine lettuce.\n2. Toss the lettuce with the dressing.\n3. Top with shaved parmesan cheese and croutons.\n\nEnjoy your homemade Caesar salad!",
+    "execution_time": 9.66,
+    "tokens": {
+      "input_tokens": 1017,
+      "output_tokens": 197,
+      "total_tokens": 1214
+    },
+    "cost": 0.000271
+  },
+  {
+    "question": "Can I use pre-made croutons for the salad?",
+    "category": "detail",
+    "type": "Caesar Salad",
+    "output": "Yes, you can definitely use pre-made croutons for your salad! They can add a nice crunch and flavor without the extra effort of making them from scratch. Just sprinkle them on top before serving. If you have any specific salad in mind, I can help find a recipe for it!",
+    "execution_time": 2.72,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 61,
+      "total_tokens": 294
+    },
+    "cost": 7.2e-05
+  },
+  {
+    "question": "What can I use instead of anchovy paste in the dressing?",
+    "category": "substitution",
+    "type": "Caesar Salad",
+    "output": "If you're looking for substitutes for anchovy paste in a dressing, consider these options:\n\n1. **Soy Sauce**: It adds a similar umami flavor.\n2. **Worcestershire Sauce**: This can give a depth of flavor akin to anchovies.\n3. **Olive Oil and Garlic**: A mix of these can provide a potent flavor, though it won't replicate the fishiness.\n4. **Miso Paste**: A bit of miso can bring complexity and saltiness.\n5. **Nutritional Yeast**: A good vegan option that adds a savory flavor.\n\nAdjust the quantities to your taste, as these alternatives may vary in saltiness and flavor intensity.",
+    "execution_time": 2.41,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 142,
+      "total_tokens": 376
+    },
+    "cost": 0.00012
+  },
+  {
+    "question": "How does a Caesar salad compare to a Greek salad?",
+    "category": "comparison",
+    "type": "Caesar Salad",
+    "output": "A Caesar salad and a Greek salad differ in several key aspects:\n\n### Caesar Salad\n- **Ingredients**: Typically includes romaine lettuce, croutons, Parmesan cheese, and Caesar dressing (which often contains anchovies, garlic, lemon juice, egg yolks, and olive oil).\n- **Flavor Profile**: Has a creamy, tangy flavor due to the dressing, with a rich umami taste from the anchovies and cheese.\n- **Presentation**: Often served as a composed salad, with the ingredients arranged aesthetically, and is sometimes garnished with more cheese or additional croutons.\n\n### Greek Salad\n- **Ingredients**: Generally consists of tomatoes, cucumbers, bell peppers, red onions, Kalamata olives, and feta cheese, dressed with olive oil, vinegar, and oregano.\n- **Flavor Profile**: Fresh and vibrant, with a Mediterranean flavor profile accentuated by the brininess of olives and feta, along with the crunchy vegetables.\n- **Presentation**: Usually a rustic toss of ingredients, with the feta cheese often left in large blocks or crumbled on top.\n\n### Summary\n- **Caesar Salad** focuses on creamy texture and rich flavors, while **Greek Salad** emphasizes fresh, crunchy vegetables with a more tangy and salty profile.\n- The base greens differ too, with romaine in Caesar and a mix of salad vegetables in Greek. \n\nBoth salads are delicious but cater to different tastes and dietary preferences!",
+    "execution_time": 3.57,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 295,
+      "total_tokens": 527
+    },
+    "cost": 0.000212
+  },
+  {
+    "question": "What are the main ingredients in beef tacos?",
+    "category": "factual",
+    "type": "Beef Tacos",
+    "output": "The main ingredients in beef tacos typically include:\n\n1. **Ground beef** - the primary protein\n2. **Taco seasoning** - for flavor, which can be store-bought or homemade\n3. **Taco shells or tortillas** - for holding the filling\n4. **Toppings** - like shredded lettuce, diced tomatoes, cheese, sour cream, and salsa\n\nWould you like a recipe for beef tacos?",
+    "execution_time": 2.02,
+    "tokens": {
+      "input_tokens": 230,
+      "output_tokens": 88,
+      "total_tokens": 318
+    },
+    "cost": 8.7e-05
+  },
+  {
+    "question": "How do I brown ground beef properly?",
+    "category": "how-to",
+    "type": "Beef Tacos",
+    "output": "To brown ground beef properly, follow these steps:\n\n1. **Choose the Right Pan**: Use a large skillet or frying pan to ensure even cooking.\n\n2. **Heat the Pan**: Preheat the pan over medium-high heat. You can add a little bit of oil (like olive or vegetable oil) if you're using very lean beef.\n\n3. **Add the Beef**: Once the pan is hot, add the ground beef in a single layer. Avoid overcrowding the pan, as this can cause the beef to steam rather than brown.\n\n4. **Let it Cook**: Allow the beef to cook without stirring for a few minutes. This helps develop a nice brown crust.\n\n5. **Break It Up**: After a few minutes, use a spatula to break the beef into smaller pieces. Continue to cook, stirring occasionally.\n\n6. **Cook Until Browned**: Keep cooking until the beef is fully browned and no longer pink. This usually takes about 8-10 minutes.\n\n7. **Drain Excess Fat**: If there's excess fat in the pan after browning, drain it off as needed.\n\n8. **Season**: Season the beef with salt, pepper, or your preferred spices while it's cooking for added flavor.\n\nBy following these steps, you should achieve perfectly browned ground beef that\u2019s ready for your recipes!",
+    "execution_time": 4.0,
+    "tokens": {
+      "input_tokens": 229,
+      "output_tokens": 274,
+      "total_tokens": 503
+    },
+    "cost": 0.000199
+  },
+  {
+    "question": "What kind of taco seasoning should I use for beef tacos?",
+    "category": "detail",
+    "type": "Beef Tacos",
+    "output": "For beef tacos, a good taco seasoning typically includes a mix of these spices:\n\n1. **Chili Powder**: This is the base flavor.\n2. **Cumin**: Adds warmth and earthiness.\n3. **Paprika**: For a slight sweetness and color.\n4. **Garlic Powder and Onion Powder**: For savory depth.\n5. **Oregano**: Adds a herby note.\n6. **Salt and Pepper**: To enhance overall flavor.\n7. **Cayenne Pepper**: For heat, if desired.\n\nYou can also find pre-made taco seasoning packets at the store, which often contain a blend of these spices. Make sure to adjust the amounts according to your taste preference! If you want, I can help you find a specific taco seasoning recipe.",
+    "execution_time": 3.51,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 164,
+      "total_tokens": 397
+    },
+    "cost": 0.000133
+  },
+  {
+    "question": "Can I use turkey instead of beef for this taco recipe?",
+    "category": "substitution",
+    "type": "Beef Tacos",
+    "output": "I can help with taco recipes! If you give me a moment, I can find some taco recipes for you and we can check if they mention using turkey or beef. Would you like that?",
+    "execution_time": 1.85,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 41,
+      "total_tokens": 274
+    },
+    "cost": 6e-05
+  },
+  {
+    "question": "How do beef tacos compare to chicken tacos in flavor?",
+    "category": "comparison",
+    "type": "Beef Tacos",
+    "output": "Beef tacos typically have a richer, more robust flavor due to the seasoning and the fat content in ground beef. They often have a savory, hearty taste that pairs well with bold spices and toppings like cheese, sour cream, and guacamole.\n\nChicken tacos, on the other hand, tend to be lighter in flavor and can be more versatile. The taste can vary significantly based on how the chicken is seasoned\u2014making them suitable for a wide range of styles, from spicy and tangy to mild and savory. Grilled or shredded chicken can absorb the flavors of marinades and other ingredients well.\n\nIn summary, beef tacos are generally more intense and hearty, while chicken tacos are lighter and can be customized more easily.",
+    "execution_time": 2.73,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 145,
+      "total_tokens": 377
+    },
+    "cost": 0.000122
+  },
+  {
+    "question": "What are the main ingredients in a Vegetable Stir Fry?",
+    "category": "factual",
+    "type": "Vegetable Stir Fry",
+    "output": "The main ingredients in a Vegetable Stir Fry include:\n\n- Broccoli\n- Bell pepper\n- Carrot\n- Snap peas\n- Soy sauce\n- Sesame oil\n- Garlic\n- Ginger\n- Cornstarch\n- Rice\n\nThis dish is vegetarian and vegan, making it a quick and healthy option!",
+    "execution_time": 4.65,
+    "tokens": {
+      "input_tokens": 698,
+      "output_tokens": 84,
+      "total_tokens": 782
+    },
+    "cost": 0.000155
+  },
+  {
+    "question": "How do I cut the vegetables for the stir fry?",
+    "category": "how-to",
+    "type": "Vegetable Stir Fry",
+    "output": "For a stir-fry, you'll want to cut your vegetables into uniform sizes to ensure even cooking. Here\u2019s a general guideline for cutting various vegetables:\n\n1. **Bell Peppers**: Remove the seeds and stem, then cut into strips or bite-sized pieces.\n2. **Carrots**: Peel them and cut into thin rounds or julienne (matchstick) style.\n3. **Broccoli**: Cut the florets into smaller pieces, and slice the stems into thin rounds.\n4. **Onions**: Slice in half, remove the skin, and then cut into thin slices.\n5. **Zucchini**: Cut off the ends, then slice into rounds or half-moons.\n6. **Snap Peas**: Trim the ends and leave them whole.\n\nThe key is to keep pieces similar in size to ensure they cook evenly. Would you like a specific stir-fry recipe to follow?",
+    "execution_time": 2.74,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 188,
+      "total_tokens": 420
+    },
+    "cost": 0.000148
+  },
+  {
+    "question": "What is the purpose of using cornstarch in the recipe?",
+    "category": "detail",
+    "type": "Vegetable Stir Fry",
+    "output": "Cornstarch serves several purposes in cooking and baking:\n\n1. **Thickening Agent**: It's commonly used to thicken sauces, soups, and gravies. When mixed with liquid and heated, it absorbs moisture and swells, creating a thicker consistency.\n\n2. **Texture Improvement**: In baking, cornstarch can contribute to a softer texture in cakes and cookies, helping to create a more tender crumb.\n\n3. **Stabilizing**: Cornstarch can act as a stabilizer in recipes like puddings or custards, helping to maintain a smooth consistency.\n\n4. **Coating**: It can be used to coat proteins like chicken or tofu for frying, giving a crispy exterior.\n\nIf you have a specific recipe in mind, I can provide more tailored information!",
+    "execution_time": 2.39,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 162,
+      "total_tokens": 396
+    },
+    "cost": 0.000132
+  },
+  {
+    "question": "What can I use instead of sesame oil?",
+    "category": "substitution",
+    "type": "Vegetable Stir Fry",
+    "output": "If you're looking for alternatives to sesame oil, consider these options:\n\n1. **Peanut Oil**: Offers a similar nutty flavor and is a great substitute, especially in Asian dishes.\n2. **Sunflower Oil**: Lightweight and has a neutral flavor, making it a good all-purpose oil.\n3. **Olive Oil**: Although it has a different flavor profile, it can work in a pinch for saut\u00e9ing and dressings.\n4. **Canola Oil**: Mild flavor and suitable for various cooking methods.\n5. **Coconut Oil**: Can add a touch of sweetness, but the flavor is different, so consider this for specific dishes.\n\nDo you need a recipe that uses sesame oil, or would you like more information on using any of these alternatives in specific dishes?",
+    "execution_time": 3.44,
+    "tokens": {
+      "input_tokens": 230,
+      "output_tokens": 163,
+      "total_tokens": 393
+    },
+    "cost": 0.000132
+  },
+  {
+    "question": "How is Vegetable Stir Fry different from Fried Rice?",
+    "category": "comparison",
+    "type": "Vegetable Stir Fry",
+    "output": "Vegetable Stir Fry and Fried Rice are both popular Asian dishes, but they have some key differences:\n\n1. **Base Ingredients**:\n   - **Vegetable Stir Fry**: Primarily consists of a variety of vegetables cooked quickly at high heat, often with soy sauce or other seasonings.\n   - **Fried Rice**: Uses pre-cooked rice as the main ingredient, which is stir-fried with vegetables, proteins (like chicken, shrimp, or tofu), and seasonings.\n\n2. **Cooking Method**:\n   - **Vegetable Stir Fry**: Involves cooking vegetables quickly in a wok or pan, often without any liquid, to keep them crisp.\n   - **Fried Rice**: Typically requires cooking the rice first, then stir-frying it with other ingredients, often in oil, to achieve a slightly crispy texture.\n\n3. **Texture**:\n   - **Vegetable Stir Fry**: Usually has a tender-crisp texture due to the quick cooking method. \n   - **Fried Rice**: Has a more varied texture, as the rice can become slightly crispy on the outside while remaining soft inside.\n\n4. **Nutritional Focus**:\n   - **Vegetable Stir Fry**: Often focuses on the vegetables and their nutrients.\n   - **Fried Rice**: Includes carbohydrates from the rice and often additional proteins, making it a heartier dish.\n\nBoth dishes can be seasoned in various ways and can incorporate a range of ingredients, making them versatile in preparation.",
+    "execution_time": 3.54,
+    "tokens": {
+      "input_tokens": 231,
+      "output_tokens": 307,
+      "total_tokens": 538
+    },
+    "cost": 0.000219
+  },
+  {
+    "question": "What is guanciale?",
+    "category": "factual",
+    "type": "Spaghetti Carbonara",
+    "output": "Guanciale is an Italian cured meat made from pork cheek or jowl. It is known for its rich flavor and higher fat content compared to other cured meats, such as pancetta. Guanciale is often seasoned with spices like black pepper and sometimes garlic. It is commonly used in traditional Italian dishes, especially in pasta recipes like Pasta all'Amatriciana and Pasta alla Gricia. The texture is tender, and it adds a unique depth of flavor to dishes.",
+    "execution_time": 2.0,
+    "tokens": {
+      "input_tokens": 227,
+      "output_tokens": 96,
+      "total_tokens": 323
+    },
+    "cost": 9.2e-05
+  },
+  {
+    "question": "How do I make the sauce creamy without scrambling the eggs?",
+    "category": "how-to",
+    "type": "Spaghetti Carbonara",
+    "output": "To make a sauce creamy without scrambling the eggs, you can follow these tips:\n\n1. **Temper the Eggs**: Before adding the eggs to the sauce, whisk them in a bowl and gradually incorporate some of the hot sauce into the eggs. This raises the temperature of the eggs slowly, reducing the chance of scrambling.\n\n2. **Use Low Heat**: When adding the egg mixture to the sauce, keep the heat low. High heat can cause the eggs to scramble quickly.\n\n3. **Stir Constantly**: Continuously stir the mixture while adding the egg mixture into the sauce. This helps distribute the heat more evenly.\n\n4. **Add Cream or Milk**: If the recipe allows, adding a bit of cream or milk can help prevent scrambling and contribute to a creamier texture.\n\n5. **Use Starch**: Incorporate a bit of cornstarch or flour, dissolved in water, into the sauce to help thicken it without directly adding eggs.\n\nThese techniques should help you create a creamy sauce without the unwanted texture of scrambled eggs!",
+    "execution_time": 2.63,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 215,
+      "total_tokens": 448
+    },
+    "cost": 0.000164
+  },
+  {
+    "question": "What type of pasta is traditionally used in spaghetti carbonara?",
+    "category": "detail",
+    "type": "Spaghetti Carbonara",
+    "output": "The type of pasta traditionally used in spaghetti carbonara is spaghetti.",
+    "execution_time": 1.75,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 15,
+      "total_tokens": 248
+    },
+    "cost": 4.4e-05
+  },
+  {
+    "question": "Can I use bacon instead of guanciale?",
+    "category": "substitution",
+    "type": "Spaghetti Carbonara",
+    "output": "Yes, you can use bacon instead of guanciale in recipes, especially in dishes like pasta alla carbonara or amatriciana. While they have different flavors and textures\u2014guanciale being richer and more flavorful due to its higher fat content\u2014bacon can work well as a substitute. Just keep in mind that bacon is typically smoked, which may alter the taste slightly. Adjust the cooking time as needed, since bacon can cook faster than guanciale.",
+    "execution_time": 2.28,
+    "tokens": {
+      "input_tokens": 231,
+      "output_tokens": 95,
+      "total_tokens": 326
+    },
+    "cost": 9.2e-05
+  },
+  {
+    "question": "How does spaghetti carbonara compare to fettuccine Alfredo?",
+    "category": "comparison",
+    "type": "Spaghetti Carbonara",
+    "output": "Spaghetti Carbonara and Fettuccine Alfredo are both classic Italian pasta dishes, but they differ significantly in ingredients and preparation.\n\n### Spaghetti Carbonara:\n- **Ingredients**: Typically made with spaghetti, eggs, hard cheese (Pecorino Romano), cured pork (like guanciale or pancetta), and black pepper.\n- **Preparation**: The sauce is created by combining beaten eggs and cheese, which are mixed with the hot pasta to create a creamy texture, without using cream.\n- **Flavor Profile**: Rich, savory, and slightly salty from the cheese and pork, with a distinctive peppery kick.\n\n### Fettuccine Alfredo:\n- **Ingredients**: Generally made with fettuccine pasta, butter, heavy cream, and Parmesan cheese.\n- **Preparation**: The cream and butter are heated to create a rich sauce, which is combined with the pasta.\n- **Flavor Profile**: Creamy and buttery, with a mild cheese flavor, making it feel indulgent and rich.\n\n### Summary:\n- **Carbonara** is egg-based and relies on the fats from the pork for creaminess, while **Alfredo** is cream-based and rich in butter. Consequently, Carbonara has a more complex flavor profile compared to the mild creaminess of Alfredo.",
+    "execution_time": 3.35,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 264,
+      "total_tokens": 498
+    },
+    "cost": 0.000193
+  },
+  {
+    "question": "What are the main ingredients in Thai Green Curry?",
+    "category": "factual",
+    "type": "Thai Green Curry",
+    "output": "The main ingredients in Thai Green Curry are:\n\n- Chicken thigh\n- Coconut milk\n- Green curry paste\n- Bamboo shoots\n- Thai basil\n- Fish sauce\n- Palm sugar\n- Eggplant\n- Bell pepper\n- Jasmine rice\n\nThese ingredients come together to create a flavorful and spicy dish!",
+    "execution_time": 3.24,
+    "tokens": {
+      "input_tokens": 625,
+      "output_tokens": 82,
+      "total_tokens": 707
+    },
+    "cost": 0.000143
+  },
+  {
+    "question": "How do you prepare the chicken for the Thai Green Curry?",
+    "category": "how-to",
+    "type": "Thai Green Curry",
+    "output": "To prepare the chicken for Thai Green Curry, follow these steps:\n\n1. **Slice the Chicken:** Cut chicken thighs into bite-sized pieces.\n2. **Heat Coconut Cream:** Heat coconut cream in a wok until the oil separates.\n3. **Fry the Curry Paste:** Add green curry paste to the wok and fry it for about 2 minutes.\n4. **Cook the Chicken:** Add the sliced chicken to the wok and cook until it\u2019s sealed and no longer pink.\n\nThen, you can continue with the rest of the recipe by adding coconut milk and other ingredients. Enjoy your cooking!",
+    "execution_time": 6.45,
+    "tokens": {
+      "input_tokens": 1196,
+      "output_tokens": 155,
+      "total_tokens": 1351
+    },
+    "cost": 0.000272
+  },
+  {
+    "question": "What role does palm sugar play in the flavor of the curry?",
+    "category": "detail",
+    "type": "Thai Green Curry",
+    "output": "Palm sugar adds a unique sweetness and depth of flavor to curry dishes. It often balances the heat from spices, complements savory ingredients, and enhances the overall richness of the dish. The caramel-like undertones of palm sugar can contribute to a more complex taste profile, making the curry harmonious and well-rounded.",
+    "execution_time": 2.06,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 62,
+      "total_tokens": 296
+    },
+    "cost": 7.2e-05
+  },
+  {
+    "question": "Can I use tofu instead of chicken in this Thai Green Curry recipe?",
+    "category": "substitution",
+    "type": "Thai Green Curry",
+    "output": "I can help you find a Thai Green Curry recipe that uses either chicken or tofu. Would you like me to find a specific recipe for Thai Green Curry that includes tofu, or do you want a general recipe that you can substitute with tofu?",
+    "execution_time": 1.58,
+    "tokens": {
+      "input_tokens": 235,
+      "output_tokens": 50,
+      "total_tokens": 285
+    },
+    "cost": 6.5e-05
+  },
+  {
+    "question": "How does Thai Green Curry compare to Massaman Curry in terms of flavor profile?",
+    "category": "comparison",
+    "type": "Thai Green Curry",
+    "output": "Thai Green Curry and Massaman Curry have distinct flavor profiles due to their unique ingredients and preparation methods:\n\n### Thai Green Curry:\n- **Heat**: Typically spicier, with green curry paste made from green chilies.\n- **Herbaceous**: Features fresh herbs like basil and cilantro, giving it a vibrant and fragrant quality.\n- **Coconut Milk**: Uses coconut milk for creaminess, which balances the heat.\n- **Sour Notes**: Often has slight sourness from ingredients like lime or kaffir lime leaves.\n\n### Massaman Curry:\n- **Milder Heat**: Generally milder and sweeter than green curry.\n- **Nutty Flavor**: Contains ground peanuts or cashews, adding a rich, nutty dimension.\n- **Warm Spices**: Uses warmer spices like cinnamon, cardamom, and cloves, giving it a more aromatic and complex flavor profile.\n- **Savory Sweetness**: May include tamarind for a sweet and tangy element, combined with potatoes and sometimes fruit.\n\nIn summary, Thai Green Curry is more focused on heat and freshness, while Massaman Curry offers a richer, sweeter, and milder experience.",
+    "execution_time": 3.32,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 241,
+      "total_tokens": 478
+    },
+    "cost": 0.00018
+  },
+  {
+    "question": "What are the main ingredients in a Greek Salad?",
+    "category": "factual",
+    "type": "Greek Salad",
+    "output": "The main ingredients in a Greek Salad typically include:\n\n- Tomatoes\n- Cucumbers\n- Red onions\n- Bell peppers\n- Kalamata olives\n- Feta cheese\n- Olive oil\n- Oregano\n\nThese ingredients can vary slightly based on personal preferences or regional variations.",
+    "execution_time": 1.88,
+    "tokens": {
+      "input_tokens": 231,
+      "output_tokens": 58,
+      "total_tokens": 289
+    },
+    "cost": 6.9e-05
+  },
+  {
+    "question": "How do you prepare the vegetables for a Greek Salad?",
+    "category": "how-to",
+    "type": "Greek Salad",
+    "output": "To prepare the vegetables for a Greek Salad, follow these general steps:\n\n1. **Cucumbers**: Peel (if desired) and slice the cucumbers into half-moons or cubes.\n2. **Tomatoes**: Cut the tomatoes into wedges or large chunks.\n3. **Red Onion**: Slice the red onion thinly. You can soak the slices in cold water for about 10 minutes to reduce their sharpness if preferred.\n4. **Bell Peppers**: Slice bell peppers (usually green or red) into strips or bite-sized pieces.\n5. **Olives**: Use pitted Kalamata olives, either whole or sliced.\n6. **Feta Cheese**: Crumble or cube the feta cheese and add it on top of the salad.\n\nMix the vegetables together in a bowl, and typically dress with olive oil, red wine vinegar, oregano, salt, and pepper before serving. Enjoy your Greek Salad!",
+    "execution_time": 3.5,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 192,
+      "total_tokens": 424
+    },
+    "cost": 0.00015
+  },
+  {
+    "question": "What type of olives are traditionally used in a Greek Salad?",
+    "category": "detail",
+    "type": "Greek Salad",
+    "output": "Traditionally, Greek salads use Kalamata olives. These dark purple, almond-shaped olives are known for their rich flavor and are a key ingredient in many Greek dishes.",
+    "execution_time": 1.76,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 35,
+      "total_tokens": 268
+    },
+    "cost": 5.6e-05
+  },
+  {
+    "question": "Can I use another type of cheese instead of feta in a Greek Salad?",
+    "category": "substitution",
+    "type": "Greek Salad",
+    "output": "You can substitute feta cheese in a Greek salad with several alternatives. Common options include:\n\n1. **Goat Cheese**: Offers a similar tangy flavor.\n2. **Mozzarella**: Provides a milder taste and creamy texture.\n3. **Ricotta**: For a lighter choice, ricotta can work well, though the texture differs.\n4. **Parmesan**: If you're looking for a firmer cheese with a sharper taste, grated or shaved Parmesan is a good option.\n\nKeep in mind that the flavor profile will change slightly, but these cheeses can complement the other ingredients in a Greek salad nicely.",
+    "execution_time": 2.57,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 129,
+      "total_tokens": 365
+    },
+    "cost": 0.000113
+  },
+  {
+    "question": "How does a Greek Salad compare to a Caprese salad?",
+    "category": "comparison",
+    "type": "Greek Salad",
+    "output": "Greek Salad and Caprese Salad are both fresh, vibrant salads, but they differ in ingredients, flavor profiles, and cultural origins.\n\n### Greek Salad\n- **Main Ingredients**: Typically includes tomatoes, cucumbers, red onions, bell peppers, olives (usually Kalamata), and feta cheese.\n- **Dressing**: Often dressed with olive oil, oregano, and sometimes vinegar or lemon juice.\n- **Flavor Profile**: Tangy and salty flavors from the feta and olives, along with freshness from the vegetables.\n\n### Caprese Salad\n- **Main Ingredients**: Made primarily of fresh mozzarella cheese, tomatoes, and basil.\n- **Dressing**: Usually drizzled with olive oil and balsamic vinegar, though some variations include salt and pepper.\n- **Flavor Profile**: Creamy from the mozzarella, with sweet and juicy notes from the tomatoes, complemented by the aromatic basil.\n\n### Key Differences\n- **Cheese Type**: Greek Salad uses feta, while Caprese uses fresh mozzarella.\n- **Vegetables**: Greek Salad has a wider variety of vegetables, whereas Caprese focuses on tomatoes and basil.\n- **Cultural Origin**: Greek Salad hails from Greece, while Caprese Salad is from Italy.\n\nBoth salads are delicious and highlight fresh ingredients, but they offer different tastes and textures based on their unique components.",
+    "execution_time": 4.39,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 273,
+      "total_tokens": 506
+    },
+    "cost": 0.000199
+  },
+  {
+    "question": "What are the main ingredients in a Chocolate Lava Cake?",
+    "category": "factual",
+    "type": "Chocolate Lava Cake",
+    "output": "The main ingredients in a Chocolate Lava Cake are:\n\n- Dark chocolate\n- Butter\n- Eggs\n- Sugar\n- Flour\n- Vanilla extract\n- Powdered sugar\n\nIf you need a specific recipe or further details, let me know!",
+    "execution_time": 3.2,
+    "tokens": {
+      "input_tokens": 545,
+      "output_tokens": 69,
+      "total_tokens": 614
+    },
+    "cost": 0.000123
+  },
+  {
+    "question": "How do I ensure the center of the cake remains soft?",
+    "category": "how-to",
+    "type": "Chocolate Lava Cake",
+    "output": "To ensure the center of your cake remains soft, consider the following tips:\n\n1. **Use the Right Ingredients**: Ensure you're using the right fat (like butter or oil) and enough moisture (like milk or yogurt) in your batter.\n\n2. **Don't Overmix**: When combining wet and dry ingredients, mix just until combined. Overmixing can lead to a denser cake.\n\n3. **Check Your Oven Temperature**: An oven that is too hot can cook the outside too quickly, leaving the center undercooked. Use an oven thermometer to ensure accuracy.\n\n4. **Use The Skewer Test**: Check for doneness by inserting a skewer into the center of the cake. If it comes out with a few moist crumbs (not wet batter), it\u2019s done.\n\n5. **Cool Gradually**: Allow the cake to cool in the pan for a short time before transferring to a wire rack. This prevents the outside from becoming too dry.\n\n6. **Add Moisture Retainers**: Ingredients like sour cream, buttermilk, or applesauce can help keep the cake moist.\n\nIf you'd like to try a specific cake recipe that may yield a soft center, just let me know!",
+    "execution_time": 3.36,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 249,
+      "total_tokens": 482
+    },
+    "cost": 0.000184
+  },
+  {
+    "question": "What is the purpose of adding vanilla extract in this recipe?",
+    "category": "detail",
+    "type": "Chocolate Lava Cake",
+    "output": "I can help you better if you share the specific recipe you're referring to. Vanilla extract is commonly used in recipes to enhance flavor, but its role can vary depending on the dish. Let me know the recipe details!",
+    "execution_time": 1.68,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 45,
+      "total_tokens": 278
+    },
+    "cost": 6.2e-05
+  },
+  {
+    "question": "Can I use milk chocolate instead of dark chocolate for this recipe?",
+    "category": "substitution",
+    "type": "Chocolate Lava Cake",
+    "output": "I can help you with that! Could you please provide more details about the recipe you're referring to? If you have any specific recipe in mind, let me know!",
+    "execution_time": 1.76,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 35,
+      "total_tokens": 269
+    },
+    "cost": 5.6e-05
+  },
+  {
+    "question": "How does Chocolate Lava Cake compare to a traditional chocolate cake?",
+    "category": "comparison",
+    "type": "Chocolate Lava Cake",
+    "output": "Chocolate Lava Cake and traditional chocolate cake differ in several key aspects:\n\n1. **Texture**:\n   - **Chocolate Lava Cake**: Features a gooey, molten center that flows when you cut into it, providing a rich and indulgent experience.\n   - **Traditional Chocolate Cake**: Typically has a uniform, soft crumb without any molten center, focusing on a moist and dense texture.\n\n2. **Preparation**:\n   - **Chocolate Lava Cake**: Often requires a more precise baking time to achieve the lava-like center, usually baked for a shorter period.\n   - **Traditional Chocolate Cake**: Generally baked for a longer time until fully set, with leavening agents (like baking powder or baking soda) that ensure it rises.\n\n3. **Serving**:\n   - **Chocolate Lava Cake**: Usually served warm, often accompanied by ice cream or whipped cream to complement its rich, warm centers.\n   - **Traditional Chocolate Cake**: Can be served at room temperature or cold, often decorated with frosting or ganache.\n\n4. **Presentation**:\n   - **Chocolate Lava Cake**: Typically served directly from the ramekin or baking dish, showcasing its warm, molten center.\n   - **Traditional Chocolate Cake**: Commonly layered and frosted, providing a more classic cake presentation.\n\nOverall, while both are delicious chocolate desserts, Chocolate Lava Cake is more about the molten experience, while traditional chocolate cake is about texture and layers.",
+    "execution_time": 4.18,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 293,
+      "total_tokens": 526
+    },
+    "cost": 0.000211
+  },
+  {
+    "question": "What is dashi stock used for in miso soup?",
+    "category": "factual",
+    "type": "Miso Soup",
+    "output": "Dashi stock is essential in miso soup as it serves as the base broth, providing a rich umami flavor. Made from ingredients like kombu (dried kelp) and bonito flakes (dried fish), dashi enhances the overall taste of the soup. It perfectly complements the miso paste, contributing depth and complexity to this traditional Japanese dish. Additionally, dashi can be used in other recipes like noodle dishes, sauces, and various soups, making it a versatile ingredient in Japanese cuisine.",
+    "execution_time": 2.61,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 103,
+      "total_tokens": 336
+    },
+    "cost": 9.7e-05
+  },
+  {
+    "question": "How do you properly dissolve miso paste in the broth for miso soup?",
+    "category": "how-to",
+    "type": "Miso Soup",
+    "output": "To properly dissolve miso paste in broth for miso soup, follow these steps:\n\n1. **Measure the Miso Paste**: Typically, about 1 to 2 tablespoons of miso paste per cup of broth is a good starting point, but adjust according to your taste.\n\n2. **Heat the Broth**: Bring your broth (usually dashi) to a gentle simmer. Avoid boiling, as high temperatures can affect the flavor of the miso.\n\n3. **Create a Miso Slurry**: In a separate bowl, take a small amount of the hot broth (about 1/4 cup) and add the miso paste. Use a whisk or a spoon to mix it until the paste is fully dissolved and the mixture is smooth.\n\n4. **Combine**: Once the miso is dissolved, pour the slurry back into the pot with the broth, stirring gently.\n\n5. **Serve Immediately**: After incorporating the miso, you can add any additional ingredients like tofu or green onions. Serve the soup immediately for the best flavor.\n\nRemember, never boil the soup after adding the miso paste, as this can alter its taste and nutritional benefits. Enjoy your miso soup!",
+    "execution_time": 3.58,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 246,
+      "total_tokens": 483
+    },
+    "cost": 0.000183
+  },
+  {
+    "question": "What is the texture of silken tofu compared to regular tofu?",
+    "category": "detail",
+    "type": "Miso Soup",
+    "output": "Silken tofu has a smooth and creamy texture, which makes it ideal for blending in smoothies, desserts, and dressings. Regular tofu, often referred to as firm or extra-firm tofu, has a denser and firmer texture that holds its shape better, making it suitable for stir-fries, grilling, and baking. The key difference lies in the moisture content; silken tofu contains more water and is less pressed compared to regular tofu.",
+    "execution_time": 2.03,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 92,
+      "total_tokens": 326
+    },
+    "cost": 9e-05
+  },
+  {
+    "question": "What can I use instead of wakame seaweed in miso soup?",
+    "category": "substitution",
+    "type": "Miso Soup",
+    "output": "If you don't have wakame seaweed on hand for miso soup, you can use these alternatives:\n\n1. **Nori**: Dried seaweed sheets, typically used for sushi. Tear them into small pieces.\n2. **Spinach**: Fresh or frozen spinach can add a similar green color and some nutritional benefits.\n3. **Kale**: Chopped kale can be a hearty substitute, adding texture and nutrients.\n4. **Dulse**: Another type of edible seaweed that can provide a similar flavor.\n\nWhile these won't replicate the exact taste of wakame, they will add a nice flavor and texture to your miso soup!",
+    "execution_time": 2.68,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 135,
+      "total_tokens": 371
+    },
+    "cost": 0.000116
+  },
+  {
+    "question": "How does miso soup compare to ramen in terms of ingredients and preparation?",
+    "category": "comparison",
+    "type": "Miso Soup",
+    "output": "Miso soup and ramen are both traditional Japanese dishes, but they differ significantly in terms of ingredients and preparation.\n\n### Miso Soup:\n- **Ingredients:**\n  - **Base:** Miso paste (fermented soybean paste) is the main ingredient, providing a salty and umami flavor.\n  - **Dashi:** A broth usually made from kombu (kelp) and bonito flakes (dried fish).\n  - **Add-ins:** Common additions include tofu, seaweed (like wakame), green onions, and other vegetables.\n  \n- **Preparation:**\n  - The dashi is prepared, and then miso paste is dissolved into it. \n  - Ingredients like tofu and seaweed are added. \n  - It's typically served hot and quickly prepared, often done in under 20 minutes.\n\n### Ramen:\n- **Ingredients:**\n  - **Noodle:** Wheat noodles are the central component, varying in thickness and texture.\n  - **Broth:** The broth can be based on pork, chicken, or vegetable stock and often includes soy sauce or miso as flavoring agents.\n  - **Toppings:** Common toppings include sliced pork (chashu), soft-boiled eggs, narutomaki (fish cake), green onions, and nori (seaweed).\n\n- **Preparation:**\n  - The broth requires more time, often simmering for hours to develop deep flavors.\n  - Noodles are cooked separately and added to the bowl along with the hot broth and various toppings.\n  - Preparation can take longer, often up to an hour or more, depending on the complexity and type of ramen.\n\n### Summary:\n- **Miso soup** is simpler and quicker to make, featuring a rich miso flavor and few ingredients.\n- **Ramen** is more complex with its noodles and various toppings, requiring a rich broth that usually takes longer to prepare. \n\nBoth dishes offer unique flavors and experiences, reflecting the diversity of Japanese cuisine.",
+    "execution_time": 4.88,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 400,
+      "total_tokens": 636
+    },
+    "cost": 0.000275
+  },
+  {
+    "question": "What are the main ingredients in banana pancakes?",
+    "category": "factual",
+    "type": "Banana Pancakes",
+    "output": "The main ingredients in banana pancakes are:\n\n- Ripe bananas\n- Eggs\n- Flour\n- Baking powder\n- Milk\n- Butter\n- Maple syrup\n- Vanilla extract\n\nIf you need the full recipe or instructions, just let me know!",
+    "execution_time": 3.77,
+    "tokens": {
+      "input_tokens": 546,
+      "output_tokens": 70,
+      "total_tokens": 616
+    },
+    "cost": 0.000124
+  },
+  {
+    "question": "How do you properly mash the bananas for the recipe?",
+    "category": "how-to",
+    "type": "Banana Pancakes",
+    "output": "Could you please specify the recipe you're referring to? Knowing this will help me provide you with the correct mashing instructions.",
+    "execution_time": 1.63,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 26,
+      "total_tokens": 258
+    },
+    "cost": 5e-05
+  },
+  {
+    "question": "What is the purpose of adding baking powder to the banana pancake recipe?",
+    "category": "detail",
+    "type": "Banana Pancakes",
+    "output": "Baking powder is a leavening agent used in pancake recipes, including banana pancakes. Its main purpose is to create bubbles in the batter, which helps the pancakes rise and become light and fluffy. When the baking powder combines with moisture and heat, it produces carbon dioxide gas, causing the batter to expand. This results in a softer texture compared to pancakes made without it. Without baking powder, pancakes can turn out dense and flat.",
+    "execution_time": 2.3,
+    "tokens": {
+      "input_tokens": 235,
+      "output_tokens": 89,
+      "total_tokens": 324
+    },
+    "cost": 8.9e-05
+  },
+  {
+    "question": "What can I use instead of eggs in banana pancakes?",
+    "category": "substitution",
+    "type": "Banana Pancakes",
+    "output": "Here are some popular substitutes for eggs in banana pancakes:\n\n1. **Mashed Banana**: Since you're already using bananas, you can simply add a bit more mashed banana to replace the egg.\n2. **Applesauce**: Use 1/4 cup of unsweetened applesauce for each egg.\n3. **Flaxseed Meal**: Mix 1 tablespoon of ground flaxseed with 2.5 tablespoons of water. Let it sit for a few minutes to thicken before adding it to your mixture.\n4. **Chia Seeds**: Similar to flaxseed, mix 1 tablespoon of chia seeds with 3 tablespoons of water and let it sit until it forms a gel-like consistency.\n5. **Silken Tofu**: Blend 1/4 cup of silken tofu until smooth and use it as a substitute.\n6. **Yogurt**: Use 1/4 cup of yogurt (dairy or plant-based) to replace one egg.\n\nThese will help bind the ingredients together and maintain moisture in the pancakes.",
+    "execution_time": 3.41,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 216,
+      "total_tokens": 448
+    },
+    "cost": 0.000164
+  },
+  {
+    "question": "How do banana pancakes compare to regular pancakes in terms of taste and texture?",
+    "category": "comparison",
+    "type": "Banana Pancakes",
+    "output": "Banana pancakes typically have a sweeter, more pronounced flavor due to the mashed bananas. They are often denser and moister compared to regular pancakes, which tend to be lighter and fluffier. The bananas add natural sweetness, meaning you might need less sugar in the batter. The texture can also be slightly creamier, which some people find appealing, while regular pancakes may have a more traditional, classic taste. Overall, banana pancakes can offer a delicious twist on the classic recipe!",
+    "execution_time": 2.33,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 98,
+      "total_tokens": 334
+    },
+    "cost": 9.4e-05
+  },
+  {
+    "question": "What spices are used to marinate the lamb in a Lamb Shawarma Bowl?",
+    "category": "factual",
+    "type": "Lamb Shawarma Bowl",
+    "output": "The spices used to marinate the lamb in a Lamb Shawarma Bowl include:\n\n- Cumin\n- Coriander\n- Paprika\n- Turmeric\n- Garlic\n\nThese spices, along with lemon juice and tahini, contribute to the dish's rich flavors. If you need the full recipe or cooking instructions, let me know!",
+    "execution_time": 4.18,
+    "tokens": {
+      "input_tokens": 715,
+      "output_tokens": 91,
+      "total_tokens": 806
+    },
+    "cost": 0.000162
+  },
+  {
+    "question": "How do you prepare the tahini sauce for the Lamb Shawarma Bowl?",
+    "category": "how-to",
+    "type": "Lamb Shawarma Bowl",
+    "output": "To prepare the tahini sauce for the **Lamb Shawarma Bowl**, you'll need to mix the following ingredients:\n\n### Ingredients for Tahini Sauce:\n- Tahini\n- Lemon juice\n- Garlic\n- Water (to adjust the consistency)\n\n### Instructions:\n1. In a bowl, combine tahini with lemon juice and minced garlic.\n2. Gradually add water until you reach your desired consistency. The sauce should be smooth and pourable.\n3. Adjust seasoning as needed (salt can be added to taste).\n\nOnce prepared, drizzle the tahini sauce over your assembled Lamb Shawarma Bowl!",
+    "execution_time": 5.66,
+    "tokens": {
+      "input_tokens": 1391,
+      "output_tokens": 158,
+      "total_tokens": 1549
+    },
+    "cost": 0.000303
+  },
+  {
+    "question": "How long should the lamb be marinated before cooking?",
+    "category": "detail",
+    "type": "Lamb Shawarma Bowl",
+    "output": "Lamb should ideally be marinated for at least 2 to 4 hours for optimal flavor. However, if you have the time, marinating it overnight is even better, as it allows the flavors to penetrate more deeply. If you're in a hurry, marinating for just 30 minutes can still enhance the taste somewhat.",
+    "execution_time": 2.74,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 68,
+      "total_tokens": 300
+    },
+    "cost": 7.6e-05
+  },
+  {
+    "question": "Can I use chicken instead of lamb in this recipe?",
+    "category": "substitution",
+    "type": "Lamb Shawarma Bowl",
+    "output": "Could you please provide the recipe you're referring to? I can help you determine if chicken can be a suitable substitute for lamb in that specific context.",
+    "execution_time": 1.87,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 31,
+      "total_tokens": 263
+    },
+    "cost": 5.3e-05
+  },
+  {
+    "question": "How does a Lamb Shawarma Bowl compare to a traditional lamb gyro?",
+    "category": "comparison",
+    "type": "Lamb Shawarma Bowl",
+    "output": "Both Lamb Shawarma Bowls and traditional Lamb Gyros feature seasoned lamb, but there are some key differences in preparation and presentation:\n\n1. **Marination and Spices**:\n   - **Shawarma**: The lamb is marinated with a blend of spices, often including cumin, paprika, turmeric, and garlic. It\u2019s usually slow-cooked on a vertical rotisserie.\n   - **Gyro**: The lamb is typically seasoned with oregano, thyme, and other Mediterranean herbs. It can be cooked on a vertical spit as well, but the flavor profile may be more straightforward.\n\n2. **Serving Style**:\n   - **Shawarma Bowl**: Usually served as a deconstructed meal, with the lamb placed over rice, salad, or grains, along with toppings like tahini sauce, pickles, and fresh vegetables.\n   - **Gyro**: Traditionally served in a pita wrap, often with tzatziki sauce, tomatoes, onions, and lettuce.\n\n3. **Accompaniments**:\n   - **Shawarma**: Commonly accompanied by a variety of sides, such as hummus, tabbouleh, or pickled vegetables.\n   - **Gyro**: Typically served with fries or a light salad on the side.\n\n4. **Texture and Flavor**:\n   - **Shawarma**: Offers a more complex flavor profile due to the diverse spices and toppings.\n   - **Gyro**: Usually has a more straightforward, savory flavor with a creaminess from the tzatziki.\n\nIn summary, while both dishes highlight lamb and share some similarities, their seasoning, serving style, and accompanying ingredients set them apart.",
+    "execution_time": 4.97,
+    "tokens": {
+      "input_tokens": 235,
+      "output_tokens": 341,
+      "total_tokens": 576
+    },
+    "cost": 0.00024
+  },
+  {
+    "question": "What is the main type of rice used in mushroom risotto?",
+    "category": "factual",
+    "type": "Mushroom Risotto",
+    "output": "The main type of rice used in mushroom risotto is Arborio rice. This short-grain rice is known for its high starch content, which helps create the creamy texture characteristic of risotto.",
+    "execution_time": 1.75,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 41,
+      "total_tokens": 275
+    },
+    "cost": 6e-05
+  },
+  {
+    "question": "How do you achieve the creamy texture in mushroom risotto?",
+    "category": "how-to",
+    "type": "Mushroom Risotto",
+    "output": "To achieve a creamy texture in mushroom risotto, you can follow these key steps:\n\n1. **Use Arborio Rice:** This short-grain rice has a higher starch content, which helps create that creamy consistency.\n\n2. **Gradual Liquid Addition:** Add broth gradually, allowing the rice to absorb the liquid slowly. This release of starch helps in achieving creaminess.\n\n3. **Frequent Stirring:** Stirring constantly while adding the broth helps release more starch from the rice, contributing to a silkier texture.\n\n4. **Finish with Cheese and Butter:** After the rice is cooked, incorporating grated cheese (like Parmesan) and a knob of butter will enhance the creaminess.\n\n5. **Incorporate Mushrooms Late:** Saut\u00e9ed mushrooms can be added toward the end of cooking to maintain their texture while complementing the creamy risotto.\n\nThese techniques combined will help you create a rich and creamy mushroom risotto!",
+    "execution_time": 2.9,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 188,
+      "total_tokens": 421
+    },
+    "cost": 0.000148
+  },
+  {
+    "question": "What types of mushrooms can be used in mushroom risotto?",
+    "category": "detail",
+    "type": "Mushroom Risotto",
+    "output": "Common types of mushrooms that can be used in mushroom risotto include:\n\n1. **Cremini Mushrooms**: These are young Portobello mushrooms with a firm texture and earthy flavor.\n2. **Portobello Mushrooms**: Fully matured cremini mushrooms that add a rich, meaty flavor.\n3. **Shiitake Mushrooms**: Known for their unique flavor and chewy texture, they add a deep umami taste.\n4. **Button Mushrooms**: Mild in flavor, they're a versatile and commonly used option.\n5. **Oyster Mushrooms**: These have a delicate texture and a slightly sweet flavor.\n6. **Porcini Mushrooms**: Dried or fresh, they offer a deep, woodsy flavor and are often used for added richness.\n\nFeel free to mix and match different types for added flavor and texture!",
+    "execution_time": 2.51,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 176,
+      "total_tokens": 409
+    },
+    "cost": 0.000141
+  },
+  {
+    "question": "Can I substitute arborio rice with another type of rice?",
+    "category": "substitution",
+    "type": "Mushroom Risotto",
+    "output": "Yes, you can substitute arborio rice with other types of rice, but it might slightly change the texture and the overall outcome of your dish. Here are some alternatives:\n\n1. **Carnaroli Rice**: Similar to arborio, it's often used in risottos and has a high starch content.\n2. **Vialone Nano**: Another short-grain rice that works well in risottos.\n3. **Short-Grain Brown Rice**: If you prefer a healthier option, it can be used but will require longer cooking time.\n4. **Sushi Rice**: Also high in starch, it can create a creamy texture similar to arborio.\n5. **Basmati or Jasmine**: While not ideal for risotto, they can be used in other dishes where you need rice, but the texture will be different.\n\nKeep in mind the cooking times might vary, so adjust accordingly.",
+    "execution_time": 2.9,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 187,
+      "total_tokens": 420
+    },
+    "cost": 0.000147
+  },
+  {
+    "question": "How does mushroom risotto compare to chicken risotto in flavor and texture?",
+    "category": "comparison",
+    "type": "Mushroom Risotto",
+    "output": "Mushroom risotto and chicken risotto differ significantly in both flavor and texture:\n\n### Flavor:\n- **Mushroom Risotto**: It's earthy and rich, with umami notes coming from the mushrooms. The flavor can vary depending on the type of mushrooms used (e.g., cremini, shiitake, or porcini), offering a more robust or delicate profile.\n- **Chicken Risotto**: This has a milder, more savory flavor, typically enhanced by the seasonings and chicken stocks used. The chicken provides a subtle meatiness that complements the creamy rice.\n\n### Texture:\n- **Mushroom Risotto**: The rice is creamy and velvety from the gradual addition of stock, while the mushrooms add a slightly chewy texture that contrasts with the creaminess.\n- **Chicken Risotto**: Similar creamy base, but pieces of chicken add a tender, juicy element. The rice remains the star, but the chicken can provide a more textured feel depending on how it's prepared (shredded vs. diced).\n\nBoth dishes are comforting and rich but offer distinct flavor profiles and textural experiences based on their key ingredients.",
+    "execution_time": 3.0,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 233,
+      "total_tokens": 469
+    },
+    "cost": 0.000175
+  },
+  {
+    "question": "What type of fish is typically used in traditional fish and chips?",
+    "category": "factual",
+    "type": "Fish and Chips",
+    "output": "The fish typically used in traditional fish and chips is cod. Other popular options include haddock and plaice. Cod is prized for its mild flavor and flaky texture, making it a favorite choice for this classic dish.",
+    "execution_time": 1.82,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 45,
+      "total_tokens": 279
+    },
+    "cost": 6.2e-05
+  },
+  {
+    "question": "How do I properly fry the fish to get a crispy texture?",
+    "category": "how-to",
+    "type": "Fish and Chips",
+    "output": "To achieve a crispy texture when frying fish, follow these tips:\n\n1. **Choose the Right Fish**: Firm white fish like cod, haddock, or tilapia work well for frying.\n\n2. **Pat Dry**: Make sure to thoroughly pat the fish dry with paper towels. Removing moisture helps achieve crispiness.\n\n3. **Use a Coating**: Dredge the fish in seasoned flour, cornmeal, or breadcrumbs. Adding cornstarch can enhance crispiness.\n\n4. **Season Well**: Season the coating with salt, pepper, and spices for flavor.\n\n5. **Preheat the Oil**: Heat oil in a deep skillet or frying pan until it reaches 350\u00b0F to 375\u00b0F (175\u00b0C to 190\u00b0C). A hot oil temperature ensures that the fish crisps up quickly without absorbing too much oil.\n\n6. **Avoid Crowding the Pan**: Fry the fish in batches to maintain the oil temperature.\n\n7. **Fry Until Golden Brown**: Cook the fish for 3-5 minutes on each side or until golden brown and cooked through.\n\n8. **Drain Excess Oil**: After frying, place the fish on a cooling rack or paper towels to remove excess oil.\n\nFollowing these steps should help you achieve that perfect crispy texture! If you need a specific recipe for fried fish, let me know!",
+    "execution_time": 3.14,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 277,
+      "total_tokens": 511
+    },
+    "cost": 0.000201
+  },
+  {
+    "question": "What is the purpose of soaking the potatoes in cold water before frying?",
+    "category": "detail",
+    "type": "Fish and Chips",
+    "output": "Soaking potatoes in cold water before frying serves a couple of important purposes:\n\n1. **Removal of Starch**: Soaking helps to remove excess surface starch from the potatoes, which can make them gummy and prevent them from becoming crispy during cooking.\n\n2. **Crispier Texture**: By removing starch, the potatoes can develop a more desirable crispy texture when fried, as there's less interference during the frying process.\n\n3. **Even Cooking**: Soaking can also help to ensure that the potatoes cook more evenly, leading to a better overall consistency in texture.\n\n4. **Preventing Browning**: Soaking in cold water can also help to prevent the potatoes from browning before they are cooked, especially if they are cut into pieces and left exposed to air.\n\nOverall, soaking is a simple yet effective step to improve the quality of fried potatoes.",
+    "execution_time": 4.74,
+    "tokens": {
+      "input_tokens": 235,
+      "output_tokens": 175,
+      "total_tokens": 410
+    },
+    "cost": 0.00014
+  },
+  {
+    "question": "Can I substitute the cod with another type of fish?",
+    "category": "substitution",
+    "type": "Fish and Chips",
+    "output": "I can help find recipes that use cod or suggest alternatives. Would you like me to search for a specific fish or a recipe that uses cod?",
+    "execution_time": 1.67,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 31,
+      "total_tokens": 263
+    },
+    "cost": 5.3e-05
+  },
+  {
+    "question": "How does fish and chips compare to tempura in terms of preparation and texture?",
+    "category": "comparison",
+    "type": "Fish and Chips",
+    "output": "Fish and chips and tempura are both delicious fried dishes, but they differ significantly in preparation, cooking techniques, and texture.\n\n### Preparation\n\n**Fish and Chips:**\n- **Batter:** The batter is usually made from flour, water, and sometimes baking powder or beer. It's thicker and heavier.\n- **Fish:** Typically uses white fish like cod or haddock, which is coated in the batter and then deep-fried.\n- **Chips:** Thick-cut fries that are often double-fried for extra crispiness.\n\n**Tempura:**\n- **Batter:** Made from a mixture of cold water and a light flour, resulting in a very thin and delicate batter.\n- **Ingredients:** Commonly includes a variety of seafood (like shrimp) or vegetables (like sweet potatoes, bell peppers) that are dipped into the batter.\n- **Technique:** Usually fried at a higher temperature for a shorter period, which helps to keep the ingredients firm and intact.\n\n### Texture\n\n**Fish and Chips:**\n- **Crunchiness:** The batter is crunchy but substantial, providing a hearty coating around the fish.\n- **Fish Texture:** The fish inside is usually flaky and moist.\n\n**Tempura:**\n- **Crispiness:** The batter is extremely light and crispy, creating a delicate crunch without overpowering the ingredient inside.\n- **Ingredient Texture:** The vegetables or seafood maintain their shape and moisture, offering a contrast between the crunchy exterior and tender interior.\n\n### Summary\nIn short, fish and chips have a heavier batter and a heartier texture, while tempura is light and crispy, emphasizing the natural flavors of the ingredients inside.",
+    "execution_time": 4.42,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 332,
+      "total_tokens": 569
+    },
+    "cost": 0.000235
+  },
+  {
+    "question": "What type of cuisine is the Falafel Wrap?",
+    "category": "factual",
+    "type": "Falafel Wrap",
+    "output": "The Falafel Wrap is typically associated with Middle Eastern cuisine. It features falafel, which are deep-fried balls made from ground chickpeas or fava beans, and is often served in pita bread or a flatbread along with various toppings and sauces.",
+    "execution_time": 1.76,
+    "tokens": {
+      "input_tokens": 231,
+      "output_tokens": 53,
+      "total_tokens": 284
+    },
+    "cost": 6.6e-05
+  },
+  {
+    "question": "How do you properly soak dried chickpeas before making falafel?",
+    "category": "how-to",
+    "type": "Falafel Wrap",
+    "output": "To properly soak dried chickpeas before making falafel, follow these steps:\n\n1. **Rinse the Chickpeas**: Place the dried chickpeas in a colander and rinse them under cold water to remove any dirt or debris.\n\n2. **Soaking**: \n   - **Overnight Soak**: Add the rinsed chickpeas to a large bowl and cover them with plenty of water (about 3-4 inches above the chickpeas). Let them soak overnight or for at least 8 hours.\n   - **Quick Soak**: If you're short on time, you can bring a pot of water to a boil, add the rinsed chickpeas, and boil for 2-3 minutes. Remove from heat, cover, and let them soak for 1 hour.\n\n3. **Drain and Rinse**: After soaking, drain the chickpeas and rinse them under cold water again before using them in your falafel recipe.\n\nThis process softens the chickpeas, making them easier to blend and ensuring a better texture in the final falafel.",
+    "execution_time": 3.52,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 219,
+      "total_tokens": 453
+    },
+    "cost": 0.000166
+  },
+  {
+    "question": "What herbs and spices are used in the Falafel Wrap recipe?",
+    "category": "detail",
+    "type": "Falafel Wrap",
+    "output": "In the Falafel Wrap recipe, the herbs and spices used are:\n\n- **Parsley**\n- **Cilantro**\n- **Cumin**\n- **Coriander**",
+    "execution_time": 4.0,
+    "tokens": {
+      "input_tokens": 569,
+      "output_tokens": 56,
+      "total_tokens": 625
+    },
+    "cost": 0.000119
+  },
+  {
+    "question": "Can I use canned chickpeas instead of dried chickpeas for this recipe?",
+    "category": "substitution",
+    "type": "Falafel Wrap",
+    "output": "Could you please specify which recipe you're referring to? That way, I can provide you with the best advice regarding the use of canned vs. dried chickpeas.",
+    "execution_time": 3.88,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 34,
+      "total_tokens": 270
+    },
+    "cost": 5.6e-05
+  },
+  {
+    "question": "How does a Falafel Wrap compare to a Hummus Wrap in terms of ingredients and preparation?",
+    "category": "comparison",
+    "type": "Falafel Wrap",
+    "output": "Here's a comparison of a Falafel Wrap and a Hummus Wrap in terms of ingredients and preparation:\n\n### Ingredients\n\n#### Falafel Wrap\n- **Base**: Tortilla or pita bread\n- **Protein**: Falafel (made from ground chickpeas, herbs, and spices)\n- **Vegetables**: Lettuce, tomatoes, cucumbers, and onions\n- **Toppings/Sauces**: Tahini sauce or yogurt sauce, pickles\n\n#### Hummus Wrap\n- **Base**: Tortilla or pita bread\n- **Spread**: Hummus (made from blended chickpeas, tahini, olive oil, lemon juice, and garlic)\n- **Vegetables**: Lettuce, tomatoes, cucumbers, bell peppers, and sometimes shredded carrots\n- **Toppings/Sauces**: Olive oil or additional herbs/spices, but less common than in falafel wraps\n\n### Preparation\n\n#### Falafel Wrap\n1. **Making Falafel**: The falafel is typically made by blending soaked chickpeas with herbs and spices, then forming into balls or patties and frying or baking them until crispy.\n2. **Assembling**: Once the falafel is prepared, it is placed in the wrap with the vegetables and sauces.\n3. **Serving**: Served warm or at room temperature.\n\n#### Hummus Wrap\n1. **Making Hummus**: Hummus is prepared by blending the ingredients until smooth. It can be made fresh or store-bought.\n2. **Assembling**: The hummus is spread directly onto the tortilla or pita, followed by the vegetables.\n3. **Serving**: Served cold or at room temperature.\n\n### Summary\n- **Protein Source**: Falafel wraps provide a protein-rich option due to the chickpeas being fried or baked, while hummus wraps rely on the spread for creaminess and flavor.\n- **Texture**: Falafel wraps are crispy due to fried falafel, whereas hummus wraps are usually smooth and creamy with fresh vegetables.\n- **Preparation Time**: Falafel wraps usually take longer to prepare due to the cooking of falafel, while hummus wraps can be made quickly if hummus is pre-made or store-bought.\n\nBoth wraps are nutritious and flavorful, offering different culinary experiences!",
+    "execution_time": 4.84,
+    "tokens": {
+      "input_tokens": 241,
+      "output_tokens": 472,
+      "total_tokens": 713
+    },
+    "cost": 0.000319
+  }
+]
